@@ -1,3 +1,5 @@
 server:
   port: 3356
-
+# 自定义属性
+config:
+  info: test1
